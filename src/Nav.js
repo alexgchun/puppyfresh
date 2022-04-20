@@ -11,10 +11,10 @@ export default function Nav() {
                 <span>pupfresh</span>
             </div>
             <div className="links">
-                <a >Products</a>
-                <a >Brands</a>
-                <a className='red-nav' >Services</a>
-                <a >Help</a>
+                <a href="" >Products</a>
+                <a href="" >Brands</a>
+                <a href="" className='red-nav' >Services</a>
+                <a href="" >Help</a>
             </div>
         </div>
     )
