@@ -11,10 +11,10 @@ export default function Nav() {
                 <span>pupfresh</span>
             </div>
             <div className="links">
-                <a href="" >Products</a>
-                <a href="" >Brands</a>
-                <a href="" className='red-nav' >Services</a>
-                <a href="" >Help</a>
+                <a href="https://www.youtube.com" >Products</a>
+                <a href="https://www.youtube.com" >Brands</a>
+                <a href="https://www.youtube.com" className='red-nav' >Services</a>
+                <a href="https://www.youtube.com" >Help</a>
             </div>
         </div>
     )

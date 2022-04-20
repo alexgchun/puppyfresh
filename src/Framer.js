@@ -32,7 +32,7 @@ export default function Framer() {
                                 <p>{image.desc}</p>
                                 <div className='price'>
                                     <h3>{image.price}</h3>
-                                    <a>Shop Now</a>
+                                    <a href="https://www.youtube.com">Shop Now</a>
                                 </div>
                                 
 
