@@ -253,8 +253,10 @@ body {
   
 }
 
-
-
+.price > a {
+  text-decoration: none;
+  color: black;
+}
 
 .carousel-container {
   margin-left: 20%;
