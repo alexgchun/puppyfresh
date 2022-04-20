@@ -63,7 +63,7 @@ export default function Main() {
 
                     <div style={BUTTON_WRAPPER_STYLE}>
 
-                         <button class="sign-up-button" onClick={() => setisOpen(true)}><span>Sign Up</span> <img class="arrow" src={arrow} alt="" /></button>
+                         <button className="sign-up-button" onClick={() => setisOpen(true)}><span>Sign Up</span> <img className="arrow" src={arrow} alt="" /></button>
 
                          <Modal open={isOpen} onClose={() => setisOpen(false)}>
                         <form
